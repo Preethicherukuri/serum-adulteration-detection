@@ -1,0 +1,10 @@
+,Accuracy (%),F1 Score (%),Precision (%)
+RandomForest,61.42,59.10,58.60
+SVM,59.84,45.62,36.86
+KNN,51.18,49.50,48.51
+LogisticRegression,60.63,47.48,44.02
+DecisionTree,61.42,59.77,59.17
+GradientBoosting,59.84,57.63,57.16
+NaiveBayes,61.42,50.94,59.04
+AdaBoost,59.06,48.72,50.12
+ExtraTrees,58.27,54.94,54.82
