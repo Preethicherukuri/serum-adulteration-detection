@@ -112,9 +112,9 @@ Several supervised machine learning models were evaluated for classifying Raman 
 
 | Metric       | Value    |
 |--------------|----------|
-| Accuracy     | 93.56 %  |
-| F1 Score     | 93.56 %  |
-| Precision    | 93.76 %  |
+| Accuracy     | 93.16 %  |
+| F1 Score     | 93.16 %  |
+| Precision    | 93.30 %  |
 
 Other models tested include Random Forest, SVM, K-Nearest Neighbors, Logistic Regression, Decision Tree, Naive Bayes, AdaBoost, and Extra Trees. Gradient Boosting consistently outperformed them across all metrics.
 
